@@ -22,5 +22,5 @@ build_exe.bat: genera el ejecutable con PyInstaller.
 capturas: imágenes del programa funcionando.
 TCC_Resolucion_manual.docx: resolución a mano de las integrales 5 y 7.
 
-## Video
-ENLACE_DEL_VIDEO
+Video:
+https://drive.google.com/file/d/1LH3MM5m2bIZ1fYPRtyPkTky7Aom-RKAV/view?
