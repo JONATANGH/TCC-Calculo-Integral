@@ -23,4 +23,4 @@ capturas: imágenes del programa funcionando.
 TCC_Resolucion_manual.docx: resolución a mano de las integrales 5 y 7.
 
 Video:
-https://drive.google.com/file/d/1LH3MM5m2bIZ1fYPRtyPkTky7Aom-RKAV/view?
+https://drive.google.com/file/d/1LH3MM5m2bIZ1fYPRtyPkTky7Aom-RKAV/view?usp=drive_link
