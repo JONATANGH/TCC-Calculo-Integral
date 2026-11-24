@@ -1,0 +1,28 @@
+RESOLUTOR DE INTEGRALES DEFINIDAS - TCC Calculo Integral
+Universidad de Cartagena - Ingenieria de Software
+Integrantes:
+- Jonatan Jose Gomez Herrera
+- Luis Santiago Morelo Espitia
+- Ivan Andrés Cogollo López
+- Dhylan Jose Petro Ramos
+- Carlos Arturo Flórez Dugarte
+
+Que hace
+- Resuelve las 10 integrales asignadas: tecnica, procedimiento paso a paso,
+  resultado exacto, aproximacion decimal, grafica y verificacion con SciPy.
+- Tambien resuelve una integral propia: se escribe la funcion y los limites
+  con el teclado de simbolos de la ventana.
+
+Como escribir una integral propia
+- Potencias con ^ (x^2). Seno como sen(x). Numero pi como pi o con el boton π.
+- Numero e como e, o e^x. Raiz con sqrt(x) o con el boton √.
+- Los limites pueden ser numeros o cosas como pi/2 y e.
+
+Requisitos: Python 3.10 o superior.
+1. Abrir CMD dentro de esta carpeta (cd "ruta de la carpeta").
+2. pip install -r requirements.txt
+3. python app.py
+4. Para crear el ejecutable en Windows: doble clic en build_exe.bat.
+   Queda en dist\ResolutorIntegrales.exe
+
+Archivos: app.py (interfaz), integrales.py (calculos), capturas\ (capturas de pantalla).
